@@ -17,11 +17,15 @@ A : nothing it just challenge.
 
 btw if you successful can crack my program  you can  pull rquests for successful crack my program
 
-#let start this challenge 
+# let start this challenge 
 
-    ```
-    
-    ```
+1. clone my repo 
+
+```
+git clone https://github.com/bimnova001/try-crack-me-python.git
+```
+
+2. Start crack program !!! :D
 
 
 
